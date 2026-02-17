@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-Learning Course Registration Portal </title>
+</head>
+<body>
+    <header>
+        <h1 style="text-align: center; background-color: aquamarine;">E-Learning Course Registration Portal </h1> 
+    </header>
+
+    <main style="background-color: aliceblue;">
+        <section>
+            <fieldset style="width: 400px;">
+                <legend>Register the Course</legend>
+                <form action="">
+                    <table>
+                        <tr>
+                            <td><label for="">Fullname</label></td>
+                            <td><input type="text" name="" id="" required placeholder="Enter your Fullname"></td>
+                        </tr>
+
+                        <tr>
+                            <td><label for="">Email</label></td>
+                            <td><input type="email" name="" id="" required placeholder="Enter your Email"></td>
+                        </tr>
+
+                        <tr>
+                            <td>Select your Course</td>
+                            <td><input list="courses" name="" id="" placeholder="Select your Course"></td>
+                             <datalist id="courses">
+                                <option value="Java"></option>
+                                <option value="Python"></option>
+                                <option value="DotNet"></option>
+                                <option value="WebDevelopemt"></option>
+                            </datalist>
+                        </tr>
+
+                        <tr>
+                            <td>Select your Batch</td>
+                            <td><input list="batch" name="" id="" placeholder="Select your batch"></td>
+                             <datalist id="batch">
+                                <option value="B1"></option>
+                                <option value="B2"></option>
+                                <option value="B3"></option>
+                                <option value="B4"></option>
+                            </datalist>
+                        </tr>
+                          <tr>
+                            <!-- <td>Select your Month</td>
+                            <td><input list="month" name="" id="" placeholder="Select your month"></td>
+                            <datalist id="month">
+                                <option value="January">
+                                <option value="February">
+                                <option value="March">
+                                <option value="April">
+                                <option value="May">
+                                <option value="June">
+                                <option value="July">
+                                <option value="August">
+                                <option value="September">
+                                <option value="October">
+                                <option value="November">
+                                <option value="December">
+                            </datalist> -->
+
+                            <tr>
+                                <td>Select Batch Month:</td>
+                                <td><input type="month" required></td>
+                            </tr>
+                        <tr>
+                            <td>Session Timing:</td>
+                            <td><input type="time" required></td>
+                        </tr>
+
+                        <tr>
+                            <td>Skill Level (1–10):</td>
+                            <td><input type="range" min="1" max="10" value="5"></td>
+                        </tr>
+
+                        <tr>
+                            <td>Enrollment Progress:</td>
+                            <td><progress value="50" max="100"></progress></td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="center">
+                                <input type="submit" value="Enroll Now">
+                                <input type="reset" value="Clear">
+                            </td>
+                        </tr>
+
+                    </table>
+                </form>
+            </fieldset>
+        </section>
+
+
+        <section id="intro-video">
+            <h2 style="text-align: center;">Course Introduction Video</h2>
+
+            <video width="100%" controls loop>
+                <source src="video.mp4" type="video/mp4">
+                <track src="subtitles.vtt" kind="subtitles" srclang="en" label="English" default>
+                Your browser does not support the video tag.
+            </video>
+        </section>
+
+
+    </main>
+</body>
+</html>

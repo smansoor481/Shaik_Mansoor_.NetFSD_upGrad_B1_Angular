@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Online Hospital Appointment System </title>
+</head>
+<body>
+    <header>
+        <h1 style="text-align: center; color: blueviolet;">Online Hospital Appointment System</h1>
+    </header>
+    <hr>
+
+    <main>
+        
+        <section id="departments">
+           <fieldset style="width: 400px; background-color: aliceblue;">
+            <legend>Appointment Book Page</legend>
+                <form action="">
+                    <table cellpadding="5" cellspacing="0">
+                        <tr>
+                            <td><label for="">Departments: </label></td>
+                            <td><input list="department" placeholder="Search your department" required title="Enter your department"></td>
+                            <datalist id="department">
+                                <option value="General Medicine"></option>
+                                <option value="Pediatrics"></option>
+                                <option value="Gynecology & Obstetrics"></option>
+                                <option value="Dermatology"></option>
+                                <option value="Orthopedics"></option>
+                            </datalist>
+                        </tr>
+
+                        <tr>
+                            <td><label for="">Select your Doctor:</label></td>
+                            <td><input list="doctor" name="" id="" required></td>
+                            <datalist id="doctor">
+                                <option value="Dr. Sharma">
+                                <option value="Dr. Meena">
+                                <option value="Dr. Reddy">
+                                <option value="Dr. Khan">
+                            </datalist>
+                        </tr>
+
+                        <tr>
+                            <td><label for="">Select your color:</label></td>
+                            <td><input type="color" name="" id="" required placeholder="Select your color"></td>
+                        </tr>
+
+                        <tr>
+                            <td><label for="">Appointment Date:</label></td>
+                            <td><input type="datetime-local" name="" id="" required></td>
+                        </tr>
+
+                        <tr>
+                            <td><label for="">Upload your medical Reports:</label></td>
+                            <td><input type="file" name="" id="" multiple></td>
+                        </tr>
+                        <tr>
+                            <td><label for="">Email:</label></td>
+                            <td><input type="email" name="" id="" required placeholder="Enter your email"></td>
+                        </tr>
+                        <tr>
+                            <td><label for="">Contact:</label></td>
+                            <td><input type="tel" name="" id="" pattern="[5-9]{1}[0-9]{9}" placeholder="Enter your phone number" required></td>
+                        </tr>
+                        <tr>
+                            <td><label for="">Age:</label></td>
+                            <td><input type="number" name="" id="" min="1" max="100" step="1"></td>
+                        </tr>
+                        <tr>
+                            <td><label for="">Emergency Cases:</label></td>
+                            <td>
+                                <input type="checkbox" name="" id="">
+                                <label for="">Yes</label>
+                            </td>
+                        </tr>
+                    
+                        <tr>
+                            <td colspan="5" style="text-align: center;">
+                                <input type="submit" name="" id="" value="Appointment">
+                                <input type="reset" name="" id="" value="Clear">
+                            </td>
+                        </tr>
+                    </table>
+                </form>
+           </fieldset>
+        </section>
+        
+    </main>
+</body>
+</html>
