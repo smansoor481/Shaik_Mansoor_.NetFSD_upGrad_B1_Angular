@@ -1,0 +1,126 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: #f4f6f9;
+}
+
+.container {
+    display: flex;
+    min-height: 100vh;
+}
+
+.sidebar {
+    width: 220px;
+    background: #1a237e;
+    color: white;
+    padding: 20px;
+}
+
+.sidebar a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    margin: 15px 0;
+}
+
+.sidebar a:hover {
+    text-decoration: underline;
+}
+
+.main {
+    flex: 1;
+    padding: 20px;
+}
+
+#header {
+    background: #3949ab;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.cards {
+    display: flex;
+    gap: 20px;
+    margin: 20px 0;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    margin: 5px;
+    border: 2px solid #3949ab;
+    border-radius: 10px;
+    width: 200px;
+}
+
+h1, h2, p {
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+tr:hover {
+    background: #e3f2fd;
+}
+
+.credit {
+    color: green;
+    font-weight: bold;
+}
+
+.debit {
+    color: red;
+    font-weight: bold;
+}
+
+.login-box {
+    background: white;
+    padding: 20px;
+    margin: 30px 0;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.login-box input {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+input[type="password"] {
+    border: 2px solid #3949ab;
+}
+
+button {
+    padding: 10px 20px;
+    background: #3949ab;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:active {
+    background: #1a237e;
+}
+
+#footer {
+    margin-top: 30px;
+    text-align: center;
+    color: gray;
+}
