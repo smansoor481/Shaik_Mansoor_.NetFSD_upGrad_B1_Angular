@@ -1,0 +1,70 @@
+/* Element selectors */
+h1, h2, h3 {
+    color: #007BFF;
+    text-align: center;
+}
+
+p {
+    color: #333;
+}
+
+/* Class selector */
+.service-card {
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid #007BFF;
+    border-radius: 10px;
+    box-sizing: border-box; /* Box Model */
+    background-color: #f0f8ff;
+    text-align: center;
+}
+
+/* Descendant selector */
+.services p {
+    font-size: 14px;
+}
+
+/* ID selector */
+#contact {
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+/* Group selector example already used: h1, h2, h3 */
+
+/* Attribute selector */
+input[type="text"], input[type="email"], textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Button hover (pseudo-class) */
+button:hover {
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+}
+
+/* Header & nav spacing */
+header {
+    padding: 20px;
+    background-color: #e6f0ff;
+}
+
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #007BFF;
+}
+
+/* Footer styling */
+footer {
+    background-color: #e6f0ff;
+    padding: 15px;
+    text-align: center;
+    margin-top: 20px;
+}

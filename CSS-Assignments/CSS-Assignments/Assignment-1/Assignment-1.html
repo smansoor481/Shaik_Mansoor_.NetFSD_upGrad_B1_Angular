@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthcare Website</title>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        .doctor-profile {
+            border: 2px solid #007BFF;
+            padding: 15px;
+            margin: 10px 0;
+            border-radius: 10px;
+            text-align: center;
+            background-color: #e6f0ff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>MediCare Clinic</h1>
+        <nav>
+            <a href="#services">Services</a>
+            <a href="#doctors">Doctors</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+    <hr>
+
+    <section style="background-color: #ffcccc; color: #990000; padding: 15px; text-align: center;">
+        <strong>Emergency Alert:</strong> COVID-19 vaccination drive ongoing! Book now.
+    </section>
+
+    <section id="services" class="services">
+        <h2>Our Services</h2>
+        <div class="service-card">General Checkup</div>
+        <div class="service-card">Pediatrics</div>
+        <div class="service-card">Laboratory Tests</div>
+    </section>
+    <hr>
+    <section id="doctors">
+        <h2>Meet Our Doctors</h2>
+        <div class="doctor-profile">
+            <img src="doctor1.png" alt="Dr. Smith" width="150">
+            <h3>Dr. John Smith</h3>
+            <p>Cardiologist with 15 years of experience.</p>
+        </div>
+        <div class="doctor-profile">
+            <img src="doctor2.png" alt="Dr. Jane Doe" width="150">
+            <h3>Dr. Jane Doe</h3>
+            <p>Pediatrician specializing in child health.</p>
+        </div>
+    </section>
+    <hr>
+   <section id="contact">
+    <h2>Contact Us</h2>
+    <fieldset>
+        <legend>Contact Us</legend>
+        <form action="">
+            <table>
+                <tr>
+                    <td><label for="name">Name:</label></td>
+                    <td><input type="text" id="name" name="name" placeholder="Your Name"></td>
+                </tr>
+                <tr>
+                    <td><label for="email">Email:</label></td>
+                    <td><input type="email" id="email" name="email" placeholder="Your Email"></td>
+                </tr>
+                <tr>
+                    <td><label for="message">Message:</label></td>
+                    <td><textarea id="message" name="message" rows="4" placeholder="Your Message"></textarea></td>
+                </tr>
+                <tr>
+                    <td colspan="2" style="text-align:center;">
+                        <button type="submit">Send Message</button>
+                    </td>
+                </tr>
+            </table>
+        </form>
+    </fieldset>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 MediCare Clinic. All rights reserved.</p>
+    </footer>
+
+
+
+</body>
+</html>
