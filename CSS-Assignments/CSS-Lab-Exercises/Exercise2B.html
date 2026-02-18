@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Advance Selector</title>
+
+    <style>
+        /* inner paragraph red - Decendant selector */
+        div div p
+        {
+            color: red;
+        }
+
+        /* child selector */
+
+        .container > p
+        {
+            color: blue;
+        }
+
+        /* attribue selector */
+        div[class="container"] p 
+        {
+            color: red;
+        }
+
+        /* Hover change */
+        #btn:hover
+        {
+            background-color: yellowgreen;
+            color: white;
+        }
+       
+
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <p>Paragraph 1</p>
+
+        <div>
+            <p>Paragraph 2</p>
+        </div>
+    </div>
+
+    <button id="btn">Button</button>
+</body>
+</html>
