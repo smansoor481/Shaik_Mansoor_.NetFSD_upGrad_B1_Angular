@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .highlight {
+            background-color: yellow;
+            padding: 5px;
+            margin: 5px 0;
+        }
+    </style>
+    <script src="../jquery-4.0.0.min.js"></script>
+    <script>
+        $(()=>{
+            $("h1").text("Hello Header");
+            $("p:first").html("<strong>This paragraph is now bold!</strong>");
+
+            $("#myInput").val("Hello Input!");
+            $("p").append("<p class='highlight'>This is a new paragraph added dynamically.</p>");
+
+            $("#removeBtn").click(()=>{
+                $("p:first").remove();
+            })
+        })
+    </script>
+</head>
+<body>
+    <h1>Hello DOM</h1>
+    <p>Lorem ipsum dolor sit amet.</p>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+
+    <input type="text" id="myInput" placeholder="Type here..."><br>
+
+    <button id="removeBtn">Remove Paragraph</button>
+</body>
+</html>

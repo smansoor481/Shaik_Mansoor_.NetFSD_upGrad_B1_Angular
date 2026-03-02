@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetch Users API</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 10px;
+        }
+        table, th, td {
+            border: 1px solid black;
+        }
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        #loader {
+            display: none;
+            font-weight: bold;
+        }
+        #search {
+            margin-bottom: 10px;
+            padding: 5px;
+            width: 200px;
+        }
+    </style>
+    <script>
+        $(document).ready(function(){
+
+            function fetchUsers(){
+                $("#loader").show();
+                $.ajax({
+                    url: "https://jsonplaceholder.typicode.com/users",
+                    method: "GET",
+                    success: function(data){
+                        $("#loader").hide();
+                        let tableBody = "";
+                        data.forEach(user => {
+                            tableBody += `<tr>
+                                <td>${user.id}</td>
+                                <td>${user.name}</td>
+                                <td>${user.username}</td>
+                                <td>${user.email}</td>
+                                <td>${user.phone}</td>
+                                <td>${user.website}</td>
+                            </tr>`;
+                        });
+                        $("#userTable tbody").html(tableBody);
+                    },
+                    error: function(){
+                        $("#loader").hide();
+                        alert("Failed to fetch users!");
+                    }
+                });
+            }
+
+            fetchUsers();
+
+            $("#search").on("keyup", function(){
+                const value = $(this).val().toLowerCase();
+                $("#userTable tbody tr").filter(function(){
+                    $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1);
+                });
+            });
+
+        });
+    </script>
+</head>
+<body>
+
+    <h2>Users List</h2>
+    <input type="text" id="search" placeholder="Search users...">
+    <div id="loader">Loading...</div>
+
+    <table id="userTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Username</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Website</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+
+</body>
+</html>

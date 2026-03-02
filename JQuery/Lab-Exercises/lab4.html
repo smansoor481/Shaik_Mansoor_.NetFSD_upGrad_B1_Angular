@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>jQuery Animations</title>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script>
+        $(document).ready(function(){
+
+            $("#hideBtn").click(function(){
+                $("#box1").hide(500);
+            });
+            $("#showBtn").click(function(){
+                $("#box1").show(500);
+            });
+
+            $("#toggleBtn").click(function(){
+                $("#box2").toggle(500);
+            });
+
+            $("#fadeInBtn").click(function(){
+                $("#box3").fadeIn(800);
+            });
+            $("#fadeOutBtn").click(function(){
+                $("#box3").fadeOut(800);
+            });
+
+            $("#slideDownBtn").click(function(){
+                $("#box4").slideDown(600);
+            });
+            $("#slideUpBtn").click(function(){
+                $("#box4").slideUp(600);
+            });
+
+            $("#animateBtn").click(function(){
+                $("#box5").animate({
+                    width: "300px",
+                    height: "150px",
+                    opacity: 0.5,
+                    left: "+=100"
+                }, 1000);
+            });
+
+        });
+    </script>
+    <style>
+        .box {
+            width: 100px;
+            height: 100px;
+            background-color: skyblue;
+            margin: 10px 0;
+            position: relative;
+        }
+    </style>
+</head>
+<body>
+
+    <h3>Task 1: Hide/Show</h3>
+    <button id="hideBtn">Hide</button>
+    <button id="showBtn">Show</button>
+    <div id="box1" class="box"></div>
+
+    <h3>Task 2: Toggle</h3>
+    <button id="toggleBtn">Toggle</button>
+    <div id="box2" class="box"></div>
+
+    <h3>Task 3: FadeIn/FadeOut</h3>
+    <button id="fadeInBtn">Fade In</button>
+    <button id="fadeOutBtn">Fade Out</button>
+    <div id="box3" class="box" style="display:none;"></div>
+
+    <h3>Task 4: SlideDown/SlideUp</h3>
+    <button id="slideDownBtn">Slide Down</button>
+    <button id="slideUpBtn">Slide Up</button>
+    <div id="box4" class="box" style="display:none;"></div>
+
+    <h3>Task 5: Custom Animation</h3>
+    <button id="animateBtn">Animate</button>
+    <div id="box5" class="box"></div>
+
+</body>
+</html>

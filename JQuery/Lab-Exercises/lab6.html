@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Books CRUD</title>
+<script src="../jquery-4.0.0.min.js"></script>
+<style>
+    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+    table, th, td { border: 1px solid black; }
+    th, td { padding: 8px; text-align: left; }
+    input { margin: 5px 0; padding: 5px; }
+    button { margin: 2px; }
+</style>
+<script>
+$(document).ready(function(){
+
+    const API_URL = "http://localhost:3000/books";
+
+    function fetchBooks(){
+        $.ajax({
+            url: API_URL,
+            method: "GET",
+            success: function(data){
+                let tableBody = "";
+                data.forEach(book => {
+                    tableBody += `<tr>
+                        <td>${book.id}</td>
+                        <td>${book.title}</td>
+                        <td>${book.author}</td>
+                        <td>
+                            <button class="editBtn" data-id="${book.id}" data-title="${book.title}" data-author="${book.author}">Edit</button>
+                            <button class="deleteBtn" data-id="${book.id}">Delete</button>
+                        </td>
+                    </tr>`;
+                });
+                $("#bookTable tbody").html(tableBody);
+            },
+            error: function(){ alert("Failed to fetch books!"); }
+        });
+    }
+
+    fetchBooks();
+
+    $("#addBtn").click(function(){
+        const title = $("#title").val().trim();
+        const author = $("#author").val().trim();
+        if(!title || !author){ alert("Please enter title and author"); return; }
+
+        $.ajax({
+            url: API_URL,
+            method: "POST",
+            contentType: "application/json",
+            data: JSON.stringify({ title, author }),
+            success: function(){ fetchBooks(); $("#title, #author").val(""); },
+            error: function(){ alert("Failed to add book!"); }
+        });
+    });
+
+    $(document).on("click", ".deleteBtn", function(){
+        const id = $(this).data("id");
+        $.ajax({
+            url: `${API_URL}/${id}`,
+            method: "DELETE",
+            success: function(){ fetchBooks(); },
+            error: function(){ alert("Failed to delete book!"); }
+        });
+    });
+
+    $(document).on("click", ".editBtn", function(){
+        const id = $(this).data("id");
+        const title = $(this).data("title");
+        const author = $(this).data("author");
+
+        $("#title").val(title);
+        $("#author").val(author);
+        $("#addBtn").hide();
+        $("#updateBtn").show().data("id", id);
+    });
+
+    $("#updateBtn").click(function(){
+        const id = $(this).data("id");
+        const title = $("#title").val().trim();
+        const author = $("#author").val().trim();
+        if(!title || !author){ alert("Please enter title and author"); return; }
+
+        $.ajax({
+            url: `${API_URL}/${id}`,
+            method: "PUT",
+            contentType: "application/json",
+            data: JSON.stringify({ title, author }),
+            success: function(){
+                fetchBooks();
+                $("#title, #author").val("");
+                $("#updateBtn").hide();
+                $("#addBtn").show();
+            },
+            error: function(){ alert("Failed to update book!"); }
+        });
+    });
+
+});
+</script>
+</head>
+<body>
+
+<h2>Books CRUD</h2>
+<input type="text" id="title" placeholder="Title">
+<input type="text" id="author" placeholder="Author">
+<button id="addBtn">Add Book</button>
+<button id="updateBtn" style="display:none;">Update Book</button>
+
+<table id="bookTable">
+    <thead>
+        <tr><th>ID</th><th>Title</th><th>Author</th><th>Actions</th></tr>
+    </thead>
+    <tbody></tbody>
+</table>
+
+</body>
+</html>

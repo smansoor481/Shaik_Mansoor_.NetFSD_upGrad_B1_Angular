@@ -1,0 +1,10 @@
+{
+  "books": [
+    {
+      "id": "7b57",
+      "title": "HTML",
+      "author": "Bindu"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

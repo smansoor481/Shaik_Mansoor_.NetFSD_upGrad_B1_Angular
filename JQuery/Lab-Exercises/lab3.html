@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="../jquery-4.0.0.min.js"></script>
+    <script>
+        $(()=>{
+            
+            $("#btn1").click(function(){
+                alert("Button Clicked...!!");
+            });
+
+            $("#myImg").hover(function() {
+                $(this).attr("src", "./image2.png")
+            },
+            function(){
+                $(this).attr("src", "./image1.png")
+            });
+
+            $("#para1").dblclick(function(){
+                $(this).hide();
+            })
+
+            $("#input1").blur(function(){
+                alert("You left the input field..!");
+            })
+
+            $("#myForm").submit(function(event){
+                event.preventDefault();
+                alert("Form submission prevented...!")
+            });
+
+
+
+        });
+
+
+    </script>
+</head>
+<body>
+    <button id="btn1">Click</button>
+    <br><br>
+
+    <img src="./image1.png" alt="Image" width="150" id="myImg">
+    <br><br>
+
+    <p id="para1">Double Click me to Hide...!</p>
+    <br>
+
+    <form id="myForm">
+        <input type="text" id="input1" placeholder="Type something...!">
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
