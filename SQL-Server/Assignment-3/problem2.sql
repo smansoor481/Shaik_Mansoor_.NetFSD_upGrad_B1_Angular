@@ -1,0 +1,16 @@
+
+ALTER TABLE Students
+ADD CONSTRAINT CK_Gender
+CHECK (Gender IN ('M','F'));
+
+ALTER TABLE Courses
+ADD CONSTRAINT CK_Credits
+CHECK (Credits BETWEEN 1 AND 5);
+
+ALTER TABLE Marks
+ADD CONSTRAINT CK_Marks
+CHECK (MarksObtained BETWEEN 0 AND 100);
+
+ALTER TABLE Enrollments
+ADD CONSTRAINT DF_EnrollmentDate
+DEFAULT GETDATE() FOR EnrollmentDate;
