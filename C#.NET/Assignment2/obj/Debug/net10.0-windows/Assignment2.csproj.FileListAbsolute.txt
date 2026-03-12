@@ -1,0 +1,5 @@
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\Assignment2\obj\Debug\net10.0-windows\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\Assignment2\obj\Debug\net10.0-windows\Assignment2.AssemblyInfoInputs.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\Assignment2\obj\Debug\net10.0-windows\Assignment2.AssemblyInfo.cs
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\Assignment2\obj\Debug\net10.0-windows\Assignment2.csproj.CoreCompileInputs.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\Assignment2\obj\Debug\net10.0-windows\Assignment2.sourcelink.json
