@@ -1,0 +1,15 @@
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\bin\Debug\net10.0\MyInheritance.exe
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\bin\Debug\net10.0\MyInheritance.deps.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\bin\Debug\net10.0\MyInheritance.runtimeconfig.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\bin\Debug\net10.0\MyInheritance.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\bin\Debug\net10.0\MyInheritance.pdb
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\obj\Debug\net10.0\MyInheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\obj\Debug\net10.0\MyInheritance.AssemblyInfoInputs.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\obj\Debug\net10.0\MyInheritance.AssemblyInfo.cs
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\obj\Debug\net10.0\MyInheritance.csproj.CoreCompileInputs.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\obj\Debug\net10.0\MyInheritance.sourcelink.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\obj\Debug\net10.0\MyInheritance.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\obj\Debug\net10.0\refint\MyInheritance.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\obj\Debug\net10.0\MyInheritance.pdb
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\obj\Debug\net10.0\MyInheritance.genruntimeconfig.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\MyInheritance\obj\Debug\net10.0\ref\MyInheritance.dll

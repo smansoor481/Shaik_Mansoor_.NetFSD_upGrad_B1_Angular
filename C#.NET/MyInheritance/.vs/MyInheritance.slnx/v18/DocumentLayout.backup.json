@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\MyInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B696A47F-4872-450D-516C-EB2A41A24966}|MyInheritance.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\c#.net\\myinheritance\\asign6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B696A47F-4872-450D-516C-EB2A41A24966}|MyInheritance.csproj|solutionrelative:asign6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B696A47F-4872-450D-516C-EB2A41A24966}|MyInheritance.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\c#.net\\myinheritance\\banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B696A47F-4872-450D-516C-EB2A41A24966}|MyInheritance.csproj|solutionrelative:banksystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B696A47F-4872-450D-516C-EB2A41A24966}|MyInheritance.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\c#.net\\myinheritance\\educationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B696A47F-4872-450D-516C-EB2A41A24966}|MyInheritance.csproj|solutionrelative:educationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B696A47F-4872-450D-516C-EB2A41A24966}|MyInheritance.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\c#.net\\myinheritance\\e-commerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B696A47F-4872-450D-516C-EB2A41A24966}|MyInheritance.csproj|solutionrelative:e-commerce.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B696A47F-4872-450D-516C-EB2A41A24966}|MyInheritance.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\c#.net\\myinheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B696A47F-4872-450D-516C-EB2A41A24966}|MyInheritance.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asign6.cs",
+              "DocumentMoniker": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\MyInheritance\\Asign6.cs",
+              "RelativeDocumentMoniker": "Asign6.cs",
+              "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\MyInheritance\\Asign6.cs",
+              "RelativeToolTip": "Asign6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T11:17:19.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EducationSystem.cs",
+              "DocumentMoniker": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\MyInheritance\\EducationSystem.cs",
+              "RelativeDocumentMoniker": "EducationSystem.cs",
+              "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\MyInheritance\\EducationSystem.cs",
+              "RelativeToolTip": "EducationSystem.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAzwCAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:34:23.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "E-Commerce.cs",
+              "DocumentMoniker": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\MyInheritance\\E-Commerce.cs",
+              "RelativeDocumentMoniker": "E-Commerce.cs",
+              "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\MyInheritance\\E-Commerce.cs",
+              "RelativeToolTip": "E-Commerce.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:17:38.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankSystem.cs",
+              "DocumentMoniker": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\MyInheritance\\BankSystem.cs",
+              "RelativeDocumentMoniker": "BankSystem.cs",
+              "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\MyInheritance\\BankSystem.cs",
+              "RelativeToolTip": "BankSystem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:07:03.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\MyInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\MyInheritance\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:31:59.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
