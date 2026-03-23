@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\InterfaceAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B059CEE5-C0AB-4D68-B320-5C317E67E9F3}|InterfaceAssignment.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\c#.net\\interfaceassignment\\interfaceassignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B059CEE5-C0AB-4D68-B320-5C317E67E9F3}|InterfaceAssignment.csproj|solutionrelative:interfaceassignment.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B059CEE5-C0AB-4D68-B320-5C317E67E9F3}|InterfaceAssignment.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\c#.net\\interfaceassignment\\abstactclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B059CEE5-C0AB-4D68-B320-5C317E67E9F3}|InterfaceAssignment.csproj|solutionrelative:abstactclasses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B059CEE5-C0AB-4D68-B320-5C317E67E9F3}|InterfaceAssignment.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\c#.net\\interfaceassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B059CEE5-C0AB-4D68-B320-5C317E67E9F3}|InterfaceAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InterfaceAssignment",
+              "DocumentMoniker": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\InterfaceAssignment\\InterfaceAssignment.csproj",
+              "RelativeDocumentMoniker": "InterfaceAssignment.csproj",
+              "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\InterfaceAssignment\\InterfaceAssignment.csproj",
+              "RelativeToolTip": "InterfaceAssignment.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-17T10:32:08.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AbstactClasses.cs",
+              "DocumentMoniker": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\InterfaceAssignment\\AbstactClasses.cs",
+              "RelativeDocumentMoniker": "AbstactClasses.cs",
+              "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\InterfaceAssignment\\AbstactClasses.cs",
+              "RelativeToolTip": "AbstactClasses.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:26:47.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\InterfaceAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\InterfaceAssignment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T09:43:24.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

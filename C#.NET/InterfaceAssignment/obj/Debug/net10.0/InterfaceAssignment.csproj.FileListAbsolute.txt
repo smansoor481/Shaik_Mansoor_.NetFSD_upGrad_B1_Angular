@@ -1,0 +1,15 @@
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\bin\Debug\net10.0\InterfaceAssignment.exe
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\bin\Debug\net10.0\InterfaceAssignment.deps.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\bin\Debug\net10.0\InterfaceAssignment.runtimeconfig.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\bin\Debug\net10.0\InterfaceAssignment.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\bin\Debug\net10.0\InterfaceAssignment.pdb
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\obj\Debug\net10.0\InterfaceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\obj\Debug\net10.0\InterfaceAssignment.AssemblyInfoInputs.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\obj\Debug\net10.0\InterfaceAssignment.AssemblyInfo.cs
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\obj\Debug\net10.0\InterfaceAssignment.csproj.CoreCompileInputs.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\obj\Debug\net10.0\InterfaceAssignment.sourcelink.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\obj\Debug\net10.0\InterfaceAssignment.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\obj\Debug\net10.0\refint\InterfaceAssignment.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\obj\Debug\net10.0\InterfaceAssignment.pdb
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\obj\Debug\net10.0\InterfaceAssignment.genruntimeconfig.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\InterfaceAssignment\obj\Debug\net10.0\ref\InterfaceAssignment.dll
