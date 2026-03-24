@@ -1,0 +1,15 @@
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\bin\Debug\net10.0\LINQ Assignments.exe
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\bin\Debug\net10.0\LINQ Assignments.deps.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\bin\Debug\net10.0\LINQ Assignments.runtimeconfig.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\bin\Debug\net10.0\LINQ Assignments.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\bin\Debug\net10.0\LINQ Assignments.pdb
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\obj\Debug\net10.0\LINQ Assignments.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\obj\Debug\net10.0\LINQ Assignments.AssemblyInfoInputs.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\obj\Debug\net10.0\LINQ Assignments.AssemblyInfo.cs
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\obj\Debug\net10.0\LINQ Assignments.csproj.CoreCompileInputs.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\obj\Debug\net10.0\LINQ Assignments.sourcelink.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\obj\Debug\net10.0\LINQ Assignments.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\obj\Debug\net10.0\refint\LINQ Assignments.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\obj\Debug\net10.0\LINQ Assignments.pdb
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\obj\Debug\net10.0\LINQ Assignments.genruntimeconfig.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\C#.NET\LINQ Assignments\obj\Debug\net10.0\ref\LINQ Assignments.dll
