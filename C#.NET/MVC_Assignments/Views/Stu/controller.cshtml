@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>controller</title>
+</head>
+<body>
+    @{
+       var student = ViewData["students"] as List<string>;
+     }
+
+    <h2>Student List</h2>
+
+    @foreach(var stu in student)
+        {
+            <p>@stu</p>
+        }
+
+</body>
+</html>
