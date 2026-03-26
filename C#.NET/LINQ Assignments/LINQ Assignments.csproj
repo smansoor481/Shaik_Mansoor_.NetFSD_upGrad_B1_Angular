@@ -6,7 +6,7 @@
     <RootNamespace>LINQ_Assignments</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>LINQ_Assignments.OrderCustomer</StartupObject>
+    <StartupObject>LINQ_Assignments.DupliHandling</StartupObject>
   </PropertyGroup>
 
 </Project>

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\LINQ Assignments\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6E8AEC0E-060C-1002-E8C8-C2ED525ED818}|LINQ Assignments.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\c#.net\\linq assignments\\ordercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E8AEC0E-060C-1002-E8C8-C2ED525ED818}|LINQ Assignments.csproj|solutionrelative:ordercustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6E8AEC0E-060C-1002-E8C8-C2ED525ED818}|LINQ Assignments.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\c#.net\\linq assignments\\linq assignments.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{6E8AEC0E-060C-1002-E8C8-C2ED525ED818}|LINQ Assignments.csproj|solutionrelative:linq assignments.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E8AEC0E-060C-1002-E8C8-C2ED525ED818}|LINQ Assignments.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\c#.net\\linq assignments\\duplihandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E8AEC0E-060C-1002-E8C8-C2ED525ED818}|LINQ Assignments.csproj|solutionrelative:duplihandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,31 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "LINQ Assignments",
               "DocumentMoniker": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\LINQ Assignments\\LINQ Assignments.csproj",
               "RelativeDocumentMoniker": "LINQ Assignments.csproj",
               "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\LINQ Assignments\\LINQ Assignments.csproj",
               "RelativeToolTip": "LINQ Assignments.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-24T02:35:58.801Z",
+              "WhenOpened": "2026-03-24T03:48:13.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OrderCustomer.cs",
-              "DocumentMoniker": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\LINQ Assignments\\OrderCustomer.cs",
-              "RelativeDocumentMoniker": "OrderCustomer.cs",
-              "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\LINQ Assignments\\OrderCustomer.cs",
-              "RelativeToolTip": "OrderCustomer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAANAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "DupliHandling.cs",
+              "DocumentMoniker": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\LINQ Assignments\\DupliHandling.cs",
+              "RelativeDocumentMoniker": "DupliHandling.cs",
+              "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\C#.NET\\LINQ Assignments\\DupliHandling.cs",
+              "RelativeToolTip": "DupliHandling.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T02:30:17.214Z",
+              "WhenOpened": "2026-03-24T03:45:02.571Z",
               "EditorCaption": ""
             }
           ]
