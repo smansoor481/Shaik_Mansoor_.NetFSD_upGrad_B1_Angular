@@ -1,0 +1,14 @@
+﻿@model MVC_Assignment_3.Models.User;
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<form asp-action="Edit" method="post">
+
+    <input asp-for="Name" />
+    <input asp-for="Email" />
+
+    <button type="submit">Update</button>
+
+</form>
+
