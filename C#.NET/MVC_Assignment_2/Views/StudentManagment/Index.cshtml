@@ -1,0 +1,35 @@
+﻿@model List<MVC_Assignment_2.Models.Student>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<h2>Student List</h2>
+
+<a href="/StudentManagment/Create">Add Student</a>
+
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Email</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var student in Model)
+    {
+        <tr>
+            <td>@student.Id</td>
+            <td>@student.Name</td>
+            <td>@student.Age</td>
+            <td>@student.Email</td>
+            <td>
+                <a href="/StudentManagment/Edit/@student.Id">Edit</a> |
+                <a href="/StudentManagment/Delete/@student.Id">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+

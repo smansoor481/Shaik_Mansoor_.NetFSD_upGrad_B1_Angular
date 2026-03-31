@@ -1,0 +1,19 @@
+﻿@model MVC_Assignment_2.Models.Student
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+
+<h2>Edit Student</h2>
+
+<form method="post">
+    <input type="hidden" name="Id" value="@Model.Id" />
+
+    Name: <input type="text" name="Name" value="@Model.Name" /><br />
+    Age: <input type="number" name="Age" value="@Model.Age" /><br />
+    Email: <input type="text" name="Email" value="@Model.Email" /><br />
+
+    <button type="submit">Update</button>
+</form>
+

@@ -1,0 +1,30 @@
+﻿
+@model MVC_Assignment_2.Models.Student;
+    
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <h2>Using ViewBag</h2>
+    <p>Name: @ViewBag.Name</p>
+
+    <h2>Using ViewData</h2>
+    @* <p>Age: @ViewData["age"]</p> *@
+
+    @{
+        int age = (int)ViewData["age"];
+    }
+    <p>Age: @age</p>
+
+    <h2>Using Model</h2>
+    <p>@Model.Email</p>
+</body>
+</html>
