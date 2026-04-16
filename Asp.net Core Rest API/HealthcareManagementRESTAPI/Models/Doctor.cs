@@ -1,0 +1,15 @@
+﻿using HealthcareManagementRESTAPI.Models;
+
+namespace HealthcareManagementRESTAPI.Models
+{
+    public class Doctor
+    {
+        public int DoctorId { get; set; }
+        public string? Name { get; set; }
+        public string? Specialization { get; set; }
+        public int Experience { get; set; }
+        public decimal ConsultationFee { get; set; }
+
+        public ICollection<Appointment>? Appointments { get; set; }
+    }
+}

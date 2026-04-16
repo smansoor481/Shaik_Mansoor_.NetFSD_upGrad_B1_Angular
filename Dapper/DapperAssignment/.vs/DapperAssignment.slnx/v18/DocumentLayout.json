@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\Dapper\\DapperAssignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11AAD740-052B-475A-B9C1-D36DBA94FDC4}|DapperAssignment.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\dapper\\dapperassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11AAD740-052B-475A-B9C1-D36DBA94FDC4}|DapperAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D08ABE5-BDD5-2FE4-829B-8406DD8393CB}|DapperAssignment.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\dapper\\dapperassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D08ABE5-BDD5-2FE4-829B-8406DD8393CB}|DapperAssignment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11AAD740-052B-475A-B9C1-D36DBA94FDC4}|DapperAssignment.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\dapper\\dapperassignment\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{11AAD740-052B-475A-B9C1-D36DBA94FDC4}|DapperAssignment.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D08ABE5-BDD5-2FE4-829B-8406DD8393CB}|DapperAssignment.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\dapper\\dapperassignment\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D08ABE5-BDD5-2FE4-829B-8406DD8393CB}|DapperAssignment.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:50:23.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:50:23.881Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\Dapper\\DapperAssignment\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAGoBAAAAAAAAAAAAAI8BAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAAAI8BAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-06T09:49:57.694Z",
               "EditorCaption": ""
