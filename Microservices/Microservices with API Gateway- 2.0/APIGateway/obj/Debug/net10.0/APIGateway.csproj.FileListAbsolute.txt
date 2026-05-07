@@ -1,0 +1,90 @@
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\appsettings.Development.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\appsettings.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\ocelot.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\APIGateway.staticwebassets.endpoints.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\APIGateway.exe
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\APIGateway.deps.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\APIGateway.runtimeconfig.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\APIGateway.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\APIGateway.pdb
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\FluentValidation.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\IPAddressRange.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\Newtonsoft.Json.Bson.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\bin\Debug\net10.0\Ocelot.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\APIGateway.csproj.AssemblyReference.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\APIGateway.AssemblyInfoInputs.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\APIGateway.AssemblyInfo.cs
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\APIGateway.csproj.CoreCompileInputs.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\APIGateway.sourcelink.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\scopedcss\bundle\APIGateway.styles.css
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\staticwebassets.build.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\staticwebassets.development.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\swae.build.ex.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\APIGateway.csproj.Up2Date
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\APIGateway.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\refint\APIGateway.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\APIGateway.pdb
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\APIGateway.genruntimeconfig.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway\APIGateway\obj\Debug\net10.0\ref\APIGateway.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\appsettings.Development.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\appsettings.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\APIGateway.staticwebassets.endpoints.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\ocelot.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\APIGateway.exe
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\APIGateway.deps.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\APIGateway.runtimeconfig.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\APIGateway.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\APIGateway.pdb
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\FluentValidation.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\IPAddressRange.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\Newtonsoft.Json.Bson.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\Ocelot.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\APIGateway.csproj.AssemblyReference.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\APIGateway.AssemblyInfoInputs.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\APIGateway.AssemblyInfo.cs
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\APIGateway.csproj.CoreCompileInputs.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\APIGateway.sourcelink.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\scopedcss\bundle\APIGateway.styles.css
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\staticwebassets.build.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\staticwebassets.development.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\swae.build.ex.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\APIGateway.csproj.Up2Date
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\APIGateway.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\refint\APIGateway.dll
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\APIGateway.pdb
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\APIGateway.genruntimeconfig.cache
+D:\GitHub\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\Microservices\Microservices with API Gateway- 2.0\APIGateway\obj\Debug\net10.0\ref\APIGateway.dll

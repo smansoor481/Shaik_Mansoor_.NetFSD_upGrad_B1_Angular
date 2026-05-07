@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\Microservices\\Microservices with API Gateway- 2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\microservices\\microservices with api gateway- 2.0\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\microservices\\microservices with api gateway- 2.0\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|d:\\github\\shaik_mansoor_.netfsd_upgrad_b1_angular\\microservices\\microservices with api gateway- 2.0\\apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ABE66B30-BD47-A7B2-B17B-5BA67959B026}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\Microservices\\Microservices with API Gateway- 2.0\\APIGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "APIGateway\\ocelot.json",
+              "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\Microservices\\Microservices with API Gateway- 2.0\\APIGateway\\ocelot.json",
+              "RelativeToolTip": "APIGateway\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T15:29:47.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\Microservices\\Microservices with API Gateway- 2.0\\APIGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIGateway\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\Microservices\\Microservices with API Gateway- 2.0\\APIGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T15:29:41.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\Microservices\\Microservices with API Gateway- 2.0\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
+              "ToolTip": "D:\\GitHub\\Shaik_Mansoor_.NetFSD_upGrad_B1_Angular\\Microservices\\Microservices with API Gateway- 2.0\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T10:46:58.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
